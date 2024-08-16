@@ -1,0 +1,15 @@
+C:\Users\edils\OneDrive\Documentos\LOGICA DE PROGRAMACAO COM C#\obj\Debug\net6.0\LOGICA DE PROGRAMACAO COM C#.csproj.AssemblyReference.cache
+C:\Users\edils\OneDrive\Documentos\LOGICA DE PROGRAMACAO COM C#\obj\Debug\net6.0\LOGICA DE PROGRAMACAO COM C#.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\edils\OneDrive\Documentos\LOGICA DE PROGRAMACAO COM C#\obj\Debug\net6.0\LOGICA DE PROGRAMACAO COM C#.AssemblyInfoInputs.cache
+C:\Users\edils\OneDrive\Documentos\LOGICA DE PROGRAMACAO COM C#\obj\Debug\net6.0\LOGICA DE PROGRAMACAO COM C#.AssemblyInfo.cs
+C:\Users\edils\OneDrive\Documentos\LOGICA DE PROGRAMACAO COM C#\obj\Debug\net6.0\LOGICA DE PROGRAMACAO COM C#.csproj.CoreCompileInputs.cache
+C:\Users\edils\OneDrive\Documentos\LOGICA DE PROGRAMACAO COM C#\bin\Debug\net6.0\LOGICA DE PROGRAMACAO COM C#.exe
+C:\Users\edils\OneDrive\Documentos\LOGICA DE PROGRAMACAO COM C#\bin\Debug\net6.0\LOGICA DE PROGRAMACAO COM C#.deps.json
+C:\Users\edils\OneDrive\Documentos\LOGICA DE PROGRAMACAO COM C#\bin\Debug\net6.0\LOGICA DE PROGRAMACAO COM C#.runtimeconfig.json
+C:\Users\edils\OneDrive\Documentos\LOGICA DE PROGRAMACAO COM C#\bin\Debug\net6.0\LOGICA DE PROGRAMACAO COM C#.dll
+C:\Users\edils\OneDrive\Documentos\LOGICA DE PROGRAMACAO COM C#\bin\Debug\net6.0\LOGICA DE PROGRAMACAO COM C#.pdb
+C:\Users\edils\OneDrive\Documentos\LOGICA DE PROGRAMACAO COM C#\obj\Debug\net6.0\LOGICA DE PROGRAMACAO COM C#.dll
+C:\Users\edils\OneDrive\Documentos\LOGICA DE PROGRAMACAO COM C#\obj\Debug\net6.0\refint\LOGICA DE PROGRAMACAO COM C#.dll
+C:\Users\edils\OneDrive\Documentos\LOGICA DE PROGRAMACAO COM C#\obj\Debug\net6.0\LOGICA DE PROGRAMACAO COM C#.pdb
+C:\Users\edils\OneDrive\Documentos\LOGICA DE PROGRAMACAO COM C#\obj\Debug\net6.0\LOGICA DE PROGRAMACAO COM C#.genruntimeconfig.cache
+C:\Users\edils\OneDrive\Documentos\LOGICA DE PROGRAMACAO COM C#\obj\Debug\net6.0\ref\LOGICA DE PROGRAMACAO COM C#.dll
